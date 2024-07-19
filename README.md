@@ -11,8 +11,8 @@
 ### 大選分析
 [大選分析](https://github.com/ethis0219/ChatGPT_20240719)
 
-### 基金
-[基金](https://github.com/Perry851211/Fintech_LLM)
+### 基金行銷
+[基金行銷](https://github.com/Perry851211/Fintech_LLM)
 
 ### 股票購買建議
 [股票購買建議](https://github.com/openchung/gemini-financial-bot)
